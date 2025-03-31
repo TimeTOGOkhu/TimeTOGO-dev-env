@@ -34,16 +34,7 @@ git submodule add https://github.com/your-org/TimeTOGO-backend backend
 ```
 
 ### 2. `.env` 파일 작성
-```env
-DB_TYPE=postgresql
-DB_USER=postgres
-DB_PASSWORD=yourpassword
-DB_NAME=timetogo
-DB_PORT=5432
 
-PGADMIN_DEFAULT_EMAIL=admin@example.com
-PGADMIN_DEFAULT_PASSWORD=admin123
-```
 
 ---
 
