@@ -1,0 +1,6 @@
+[submodule "TimeTOGO-backend"]
+	path = TimeTOGO-backend
+	url = https://github.com/TimeTOGOkhu/TimeTOGO-backend
+[submodule "TimeTOGO-frontend"]
+	path = TimeTOGO-frontend
+	url = https://github.com/TimeTOGOkhu/TimeTOGO-frontend
